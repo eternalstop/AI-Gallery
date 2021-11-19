@@ -1,2 +1,2 @@
 # AI-Gallery
-HUAWEI AI Gallery
+# HUAWEI AI Gallery Practices
